@@ -10,7 +10,11 @@ const About = () => {
           <div className="my-auto mx-6">
             <h2 className="text-4xl font-bold mb-4 primary-color">About Me</h2>
             <p className="text-base lg:text-lg">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum iusto quibusdam ducimus ipsa illum non, id distinctio, incidunt delectus enim rem perferendis dolorum inventore deleniti velit modi, consectetur corrupti minima? Molestias perspiciatis hic, iste impedit ad quasi neque commodi harum tempore, magni molestiae beatae aliquid cumque saepe minus fugit sunt.
+              Hello! I'm Esther Shoyemi, a passionate and dedicated Frontend Developer with over 2 years of experience in web development. I specialize in creating visually appealing, user-friendly, and responsive web interfaces. 
+              <br /><br />
+              My journey in tech has been driven by my love for creativity and problem-solving. I thrive in collaborative environments and enjoy bringing innovative ideas to life. As an artistic individual, I aim to bridge the gap between functionality and aesthetics, ensuring every project not only works seamlessly but also looks stunning.
+              <br /><br />
+              I'm currently pursuing opportunities to further enhance my skills and contribute to impactful projects. When I'm not coding, you can find me exploring art, writing technical articles, or brainstorming new ways to improve user experiences.
             </p>
           </div>
         </div>
@@ -23,3 +27,4 @@ const About = () => {
 };
 
 export default About;
+
