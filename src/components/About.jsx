@@ -19,7 +19,7 @@ const About = () => {
           </div>
         </div>
         <div className="flex justify-center items-center">
-          <img className="mx-auto rounded-3xl py-8 md:py-0" src={aboutImg} width={300} height={300} alt="About" />
+          <img className="mx-auto rounded-3xl py-8 md:py-0 hidden sm:block" src={aboutImg} width={300} height={300} alt="About" />
         </div>
       </div>
     </div>

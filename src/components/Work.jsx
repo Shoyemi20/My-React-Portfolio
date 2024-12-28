@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 import proj1 from '../assets/proj1.png'
-import proj2 from '../assets/proj2.png'
+import proj7 from '../assets/proj7.jpg'
 import proj3 from '../assets/proj3.png'
 import proj4 from '../assets/proj4.png'
 import proj5 from '../assets/proj5.png'
@@ -24,7 +24,7 @@ const Work = () => {
                <div className='opacity-0 group-hover:opacity-90 bg-[grey]/70 absolute flex flex-col justify-center items-center'>
                <span className='text-2xl font-bold text-white tracking-wider'>Project</span>
                <div className='pt-8 text-center'>
-                <a href="/">
+                <a href="https://mellow-figolla-1d57a3.netlify.app/"  target="_blank" rel="noopener noreferrer">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Live
                 </button>
@@ -39,11 +39,11 @@ const Work = () => {
             <div className='transform transition-transform duration-300 hover:scale-105 overflow-hidden
                              shadow-lg shadow-[#040c16] group rounded-md flex justify-center items-center
                              h-[200px] bg-cover relative'>
-               <img src={proj2} alt="" />
+               <img src={proj7} alt="" />
                <div className='opacity-0 group-hover:opacity-90 bg-[grey]/70 absolute flex flex-col justify-center items-center'>
                <span className='text-2xl font-bold text-white tracking-wider'>Project</span>
                <div className='pt-8 text-center'>
-                <a href="/">
+                <a href="https://shoyemi20.github.io/Fylo/" target="_blank" rel="noopener noreferrer">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Live
                 </button>
@@ -62,7 +62,7 @@ const Work = () => {
                <div className='opacity-0 group-hover:opacity-90 bg-[grey]/70 absolute flex flex-col justify-center items-center'>
                <span className='text-2xl font-bold text-white tracking-wider'>Project</span>
                <div className='pt-8 text-center'>
-                <a href="/">
+                <a href="https://lucky-yeot-fc918d.netlify.app/" target="_blank" rel="noopener noreferrer">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Live
                 </button>
@@ -81,7 +81,7 @@ const Work = () => {
                <div className='opacity-0 group-hover:opacity-90 bg-[grey]/70 absolute flex flex-col justify-center items-center'>
                <span className='text-2xl font-bold text-white tracking-wider'>Project</span>
                <div className='pt-8 text-center'>
-                <a href="/">
+                <a href="https://shoyemi20.github.io/flightpage/" target="_blank" rel="noopener noreferrer">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Live
                 </button>
@@ -100,7 +100,7 @@ const Work = () => {
                <div className='opacity-0 group-hover:opacity-90 bg-[grey]/70 absolute flex flex-col justify-center items-center'>
                <span className='text-2xl font-bold text-white tracking-wider'>Project</span>
                <div className='pt-8 text-center'>
-                <a href="/">
+                <a href="https://shoyemi20.github.io/Google-page/" target="_blank" rel="noopener noreferrer">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Live
                 </button>
@@ -119,7 +119,7 @@ const Work = () => {
                <div className='opacity-0 group-hover:opacity-90 bg-[grey]/70 absolute flex flex-col justify-center items-center'>
                <span className='text-2xl font-bold text-white tracking-wider'>Project</span>
                <div className='pt-8 text-center'>
-                <a href="/">
+                <a href="https://shoyemi20.github.io/Portfolio/"target="_blank" rel="noopener noreferrer">
                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Live
                 </button>
