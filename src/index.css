@@ -12,3 +12,20 @@ body {
 .bg-primary-color {
     @apply bg-gradient-to-r from-orange-400 to-pink-600 inline-block;
 }
+
+.parallax {
+    background-image: url(''); /* Replace with your desired background image */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+
+  @media (max-width: 640px) {
+    .parallax {
+      background-attachment: scroll;
+      transform: translateY(0);
+    }
+  }
+  
