@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import proj1 from '../assets/proj1.png';
 import proj7 from '../assets/proj7.jpg';
 import proj3 from '../assets/proj3.png';
-import proj4 from '../assets/proj4.png';
+import proj4 from '../assets/proj4.jpg';
 import proj5 from '../assets/proj5.png';
 import proj6 from '../assets/proj6.png';
 
@@ -13,7 +13,7 @@ const Work = () => {
     { img: proj1, link: 'https://mellow-figolla-1d57a3.netlify.app/' },
     { img: proj7, link: 'https://shoyemi20.github.io/Fylo/' },
     { img: proj3, link: 'https://lucky-yeot-fc918d.netlify.app/' },
-    { img: proj4, link: 'https://shoyemi20.github.io/flightpage/' },
+    { img: proj4, link: 'https://dazzling-kangaroo-92ed5a.netlify.app/' },
     { img: proj5, link: 'https://shoyemi20.github.io/Google-page/' },
     { img: proj6, link: 'https://shoyemi20.github.io/Portfolio/' },
   ];
