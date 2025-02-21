@@ -14,7 +14,7 @@ const Work = () => {
     { img: proj7, link: 'https://shoyemi20.github.io/Fylo/' },
     { img: proj3, link: 'https://lucky-yeot-fc918d.netlify.app/' },
     { img: proj4, link: 'https://dazzling-kangaroo-92ed5a.netlify.app/' },
-    { img: proj5, link: 'https://shoyemi20.github.io/Google-page/' },
+    { img: proj5, link: 'https://lambent-lollipop-32d48c.netlify.app/' },
     { img: proj6, link: 'https://shoyemi20.github.io/Portfolio/' },
   ];
 
