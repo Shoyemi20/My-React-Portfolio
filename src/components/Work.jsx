@@ -8,6 +8,7 @@ import proj4 from '../assets/proj4.jpg';
 import proj5 from '../assets/proj5.png';
 import proj6 from '../assets/proj6.png';
 import proj2 from '../assets/proj2.jpg';
+import proj8 from '../assets/proj8.jpg';
 
 const Work = () => {
   const [loading, setLoading] = useState(true);
@@ -61,6 +62,14 @@ const Work = () => {
       title: 'Weather App', 
       description: 'A weather app that fetches real-time data using an API.', 
       tags: ['React', 'JavaScript', 'API', 'CSS'] 
+    },
+    { 
+      img: proj8, 
+      link: 'https://beamish-truffle-bf8c94.netlify.app/', 
+      github: 'https://github.com/Shoyemi20/react-game', 
+      title: 'React Tic Tac Toe', 
+      description: 'A simple Tic Tac Toe game.', 
+      tags: ['React', 'Tailwind CSS', 'Javascript'] 
     },
     { 
       img: proj2, 
